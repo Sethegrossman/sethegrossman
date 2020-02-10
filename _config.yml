@@ -45,7 +45,7 @@ googleplus_link: http://plus.google.com
 
 
 # Build settings
-remote_theme: Sethegrossman/business-jekyll-theme #minima
+#remote_theme: Sethegrossman/business-jekyll-theme #minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
