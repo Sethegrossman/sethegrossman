@@ -14,7 +14,7 @@ header:
     #- label: "Download"
     #  url: "https://github.com/mmistakes/minimal-mistakes/"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Hello and Welcome. I am a Kelley School of Business Graduate and a Leeds School of Business student pursuing a Masters of Business Administration with a focus on Data Analytics. Please see the pages below for my resume, list of projects, and personal interests."
+excerpt: "Hello and welcome. I am a Kelley School of Business graduate and a Leeds School of Business student pursuing a Masters of Business Administration with a focus on data analytics. Please see the pages below for my resume, list of projects, and personal interests."
 
 
 feature_row:
