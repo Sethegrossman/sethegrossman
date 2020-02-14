@@ -18,7 +18,7 @@ excerpt: "Hello and Welcome. I am a Kelley School of Business Graduate and a Lee
 
 
 feature_row:
-  - image_path: /assets/images/Resume.jpg
+  - image_path: /assets/images/Resume.JPG
     alt: "placeholder image 1"
     title: "Resume"
     #excerpt: "Please Click the image above to view my Resume"
