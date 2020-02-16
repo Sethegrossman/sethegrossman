@@ -1,4 +1,5 @@
 ---
+permalink: /personal_interests/
 title: ""
 layout: splash
 classes:
@@ -22,20 +23,20 @@ feature_row:
     alt: "placeholder image 1"
     title: "Resume"
     #excerpt: "Please Click the image above to view my Resume"
-    url: "/resume/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"  
   - image_path: /assets/images/projects.jfif
     alt: "placeholder image 2"
     title: "Projects"
     #excerpt: "This is what leeds looks like in the winter."
-    url: "/projects/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Climbing.png
     title: "Personal Interests"
     #excerpt: "Again, what leeds looks like."
-    url: "/personal_interests/"
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 ---
