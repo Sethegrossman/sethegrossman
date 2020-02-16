@@ -10,7 +10,7 @@ defaults:
       author_profile: true
 ---
 {% include feature_row %}
-A download of my resume is available [here](/assets/images/Resume_Seth_Grossman.pdf)
+A download of my resume is available [here](https://sethegrossman.com/assets/Resume_Seth_Grossman.pdf).
 # SETH GROSSMAN	                
 **MBA Student focucing on Data Analytics**
 
