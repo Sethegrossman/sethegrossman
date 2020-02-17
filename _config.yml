@@ -20,7 +20,7 @@ title                    : "Seth Grossman"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Seth Grossman"
-description              : "This is going to be all about me."
+description              : #"This is going to be all about me."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ author:
   name             : "Seth Grossman"  
   avatar           : "/assets/images/SethGrossmanHeadshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a Kelley School of Business Graduate and a Leeds School of Business student pursuing a Masters of Business Administration with a focus on Data Analytics."
-  location         : "Boulder CO"
+  location         : "Boulder, CO"
   email            : "Seth.Grossman@Colorado.edu"
   links:
     - label: "Email"
@@ -294,3 +294,10 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

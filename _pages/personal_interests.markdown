@@ -1,7 +1,7 @@
 ---
 permalink: /personal_interests/
 defaults:
-  # _pages
+   #_pages
   - scope:
       path: ""
       type: pages
@@ -12,3 +12,4 @@ defaults:
 {% include feature_row %}
 
 Personal interests page will be available soon.
+
