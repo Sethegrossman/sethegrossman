@@ -4,8 +4,15 @@ tagline: "Personal Interests"
 header:
   overlay_image: /assets/images/yosemite.jfif
 author_profile: false
+classes: wide
+sidebar:
+  - title: "Seth Grossman"
+    image: /assets/images/sanddunes.JPG
+    image_alt: "image"
+    text: ""
+  - title: "Interests"
+    text: "rock climbing, cars, and exploring"
 ---
-{% include feature_row %}
 My number one passion is rock climbing. I began in the summer of 2018
 and have spent as much of my time as possible either in the climbing gym, or more preferably outside in the mountains.
 
@@ -36,5 +43,7 @@ Some other things I enjoy are:
 * Cooking
 	* I don't have a specialty, I just like making new recepies
 * Beginner yoga classes
+* Riding motorcycles
 
+{% include feature_row %}
 
