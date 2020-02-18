@@ -13,14 +13,14 @@ sidebar:
   - title: "Interests"
     text: "rock climbing, cars, and exploring"
 ---
-My number one passion is rock climbing. I began in the summer of 2018
-and have spent as much of my time as possible either in the climbing gym, or more preferably outside in the mountains.
+My number one passion is rock climbing. I began in the summer of 2018,
+and since have spent as much time as possible either in the climbing gym, or more preferably in the mountains.
 
 
 
 ![Image of rock climbing](/assets/images/combined1.png)
 
-I also enjoy adventuring in many different forms. Some things I am proud of doing are:
+I also enjoy adventuring in many different forms. Some adventures I am proud to have taken are:
 * Going offroading in Moab
 * Learning to snowboard in January of 2019
 	* I can only do the easy greens
@@ -30,20 +30,21 @@ I also enjoy adventuring in many different forms. Some things I am proud of doin
 	* I've dove in the Florida Keys, Bon Aire, and soon Belize
 * Traveling to Italy, France, and Monaco with my older brother
 	* We saw a F1 race in Monte Carlo
-* Attending the Indiapolis Auto Show for the past 9 years and counting
 
 
 
 ![Image of offroading](/assets/images/Offroading.jpg)
 
 
-Some other things I enjoy are:
+Other things I enjoy are:
 * Listening to folk music
 	* Also old rock and roll
 * Cooking
 	* I don't have a specialty, I just like making new recepies
 * Beginner yoga classes
 * Riding motorcycles
+* Going to auto shows
+	* I've attended the Indiapolis Auto Show for the past 9 years and counting
 
 {% include feature_row %}
 
