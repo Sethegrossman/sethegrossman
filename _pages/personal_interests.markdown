@@ -21,7 +21,7 @@ and since have spent as much time as possible either in the climbing gym, or mor
 ![Image of rock climbing](/assets/images/combined1.png)
 
 I also enjoy adventuring in many different forms. Some adventures I am proud to have taken are:
-* Going offroading in Moab
+* Offroading in Moab
 * Learning to snowboard in January of 2019
 	* I can only do the easy greens
 * Traveling to almost every major national park in the US
