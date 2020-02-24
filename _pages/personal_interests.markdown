@@ -25,7 +25,7 @@ I also enjoy adventuring in many different forms. Some adventures I am proud to 
 * Learning to snowboard in January of 2019
 	* I can only do the easy greens
 * Spending two months solo road tripping around the U.S.
-.	* I went to almost every major U.S. national park
+	* I went to almost every major U.S. national park
 * Learning to scuba dive
 	* I've dove in the Florida Keys, Bon Aire, and soon Belize
 * Traveling to Italy, France, and Monaco with my older brother
