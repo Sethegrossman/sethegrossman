@@ -5,13 +5,13 @@ header:
   overlay_image: /assets/images/yosemite.jfif
 author_profile: false
 classes: wide
-sidebar:
-  - title: "Seth Grossman"
-    image: /assets/images/sanddunes.JPG
-    image_alt: "image"
-    text: ""
-  - title: "Interests"
-    text: "rock climbing, cars, and exploring"
+#sidebar:
+#  - title: "Seth Grossman"
+#    image: /assets/images/sanddunes.JPG
+#    image_alt: "image"
+#    text: ""
+#  - title: "Interests"
+#    text: "rock climbing, cars, and exploring"
 ---
 My number one passion is rock climbing. I began in the summer of 2018,
 and since have spent as much time as possible either in the climbing gym, or more preferably in the mountains.
