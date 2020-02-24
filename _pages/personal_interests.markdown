@@ -21,11 +21,11 @@ and since have spent as much time as possible either in the climbing gym, or mor
 ![Image of rock climbing](/assets/images/combined1.png)
 
 I also enjoy adventuring in many different forms. Some adventures I am proud to have taken are:
-* Going offroading in Moab
+* Offroading in Moab
 * Learning to snowboard in January of 2019
 	* I can only do the easy greens
-* Traveling to almost every major national park in the US
-* Taking a two month long solo road trip around the US
+* Spending two months solo road tripping around the U.S.
+.	* I went to almost every major U.S. national park
 * Learning to scuba dive
 	* I've dove in the Florida Keys, Bon Aire, and soon Belize
 * Traveling to Italy, France, and Monaco with my older brother
@@ -38,13 +38,12 @@ I also enjoy adventuring in many different forms. Some adventures I am proud to 
 
 Other things I enjoy are:
 * Listening to folk music
-	* Also old rock and roll
 * Cooking
 	* I don't have a specialty, I just like making new recepies
 * Beginner yoga classes
 * Riding motorcycles
-* Going to auto shows
-	* I've attended the Indiapolis Auto Show for the past 9 years and counting
+* Attending to auto shows
+	* I've been to the Indiapolis Auto Show for the past 9 years and counting
 
 {% include feature_row %}
 
