@@ -110,7 +110,7 @@ analytics:
 author:
   name             : "Seth Grossman"  
   avatar           : "/assets/images/SethGrossmanHeadshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Kelley School of Business Graduate and a Leeds School of Business student pursuing a Masters of Business Administration with a focus on Data Analytics."
+  bio              : "I am a Kelley School of Business Graduate and a Leeds School of Business student pursuing a Masters of Business Administration with a focus on Machine Learning."
   location         : "Boulder, CO"
   email            : "Seth.Grossman@Colorado.edu"
   links:
