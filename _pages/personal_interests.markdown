@@ -41,7 +41,7 @@ Other things I enjoy are:
 	* I don't have a specialty, I just like making new recepies
 * Beginner yoga classes
 * Riding motorcycles
-* Attending to auto shows
+* Attending auto shows
 	* I've been to the Indiapolis Auto Show for the past 9 years and counting
 
 {% include feature_row %}
