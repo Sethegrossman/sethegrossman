@@ -11,4 +11,4 @@ defaults:
 ---
 {% include feature_row %}
 
-Projects page will be available soon.
+Please visit [My Github Repo](https://github.com/Sethegrossman/Machine-Learning) for a collection of Machine Learning projects I have worked on.
