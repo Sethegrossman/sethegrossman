@@ -29,7 +29,7 @@ feature_row:
     alt: "placeholder image 2"
     title: "Projects"
     #excerpt: "This is what leeds looks like in the winter."
-    url: "/projects/"
+    url: "https://github.com/Sethegrossman/Machine-Learning"
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: /assets/images/Climbing.png
